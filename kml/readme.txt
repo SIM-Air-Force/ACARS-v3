@@ -1,0 +1,1 @@
+This folder will contain Google Earth files in kml format.
