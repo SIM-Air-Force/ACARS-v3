@@ -1,0 +1,15 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+### Changed
+
+## [3.1] - 2019-01-26
+### Added
+- Core files from fsACARS system
+- Custom files design for SIM Air Force, reference current v3 Beta
+
+### Changed
+- Created structure for repository to match similar projects
+
+### Removed
